@@ -1,0 +1,9 @@
+Django==1.10.2
+django-crispy-forms==1.7.2
+django-filter==1.0.0
+django-phonenumber-field==2.0.1
+django-registration==3.0
+django-registration-redux==1.1
+django-twilio==0.9.3
+django-widget-tweaks==1.4.1
+djangorestframework==3.8.2
